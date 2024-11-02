@@ -4,3 +4,5 @@ document.addEventListener('click', () => {
         audio.play();
     }
 }, { once: true });
+
+alert("Presiona cualquier lugar de la pantalla :)");
